@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+	*{margin: 0;padding: 0;}
+	#wrap{
+		margin:0 auto;
+		width:903px;
+		overflow: hidden;
+	}
+	#head{
+		width: 903px;
+		height: 128px;
+		text-align: center;
+		border-bottom: 1px solid black;
+
+	}
+	#head img{
+		width: 903px;
+		height: 128px;
+	}
+	#left{
+	
+		width: 180px;
+		height: 700px;
+		border-right: 1px solid black;
+		float: left;
+		background: url(img/bg_left.png);
+	}
+	#left h2{
+		margin: 30px;
+	}
+	#con {
+		width: 690px;
+		float: left;
+		padding: 50px 0;
+	}
+		a{
+		text-decoration:none;
+	}
+		#con {
+		width: 690px;
+		float: left;
+		padding: 50px 0;
+	}
